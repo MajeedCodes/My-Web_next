@@ -12,7 +12,7 @@ export default function Home() {
  <Cardas/>
  <TrendingSection/>
  <FeaturesSection/>
- <Footer/>
+
  </>
   );
 }
